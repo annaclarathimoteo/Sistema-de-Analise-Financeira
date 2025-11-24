@@ -130,8 +130,7 @@ A **Magic Formula** é uma estratégia de investimento desenvolvida por Joel Gre
 ---
 
 ### **📞 Suporte e Contribuições**
-- **E-mail**: lucasgomessr10@gmail.com
-- **Contribua no GitHub**: [Repositório do Projeto](https://github.com/lucasrodor/ap2_lucasrodor.git)
+- **E-mail**: annaclaramelo2020@gmail.com
 
 ---
 
